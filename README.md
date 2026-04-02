@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C#, SQL, Web Dev.
 - 💞️ I’m looking to collaborate on fun things to learn
 - 📫 How to reach me samuelgeorgetorres@gmail.com, insta samtoresu
-- 😄 Pronouns: 
 - ⚡ Fun fact: I have three kids, enjoy outdoor activities: Running, Cycling, Climbing
 
 <!---
