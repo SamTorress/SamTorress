@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamTorress
-- 👀 I’m interested in Computer Software development
-- 🌱 I’m currently learning C#, SQL, Web Dev.
-- 💞️ I’m looking to collaborate on fun things to learn
+- 👀 I’m am a recently graduated (NAIT) Full-Stack developer from Edmonton, AB.
+- 🌱 I’m currently learning to go with the flow and continue the journey.
+- 💞️ I’m looking to collaborate on fun things to learn and build.
 - 📫 How to reach me samuelgeorgetorres@gmail.com, insta samtoresu
 - ⚡ Fun fact: I have three kids, enjoy outdoor activities: Running, Cycling, Climbing
 
